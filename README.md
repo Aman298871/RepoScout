@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ea31dc9-4dce-4000-9793-b8149a9c9589" /># RepoScout 🔍 - GitHub Explorer for Android
+# RepoScout 🔍 - GitHub Explorer for Android
 
 Hey! Thanks for checking out my RepoScout project. I'm a passionate Android developer with about 2 years of personal practice under my belt, and I've recently started my professional journey (about 2 months in now!). 
 
