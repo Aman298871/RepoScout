@@ -1,4 +1,4 @@
-# RepoScout 🔍 - GitHub Explorer for Android
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4ea31dc9-4dce-4000-9793-b8149a9c9589" /># RepoScout 🔍 - GitHub Explorer for Android
 
 Hey! Thanks for checking out my RepoScout project. I'm a passionate Android developer with about 2 years of personal practice under my belt, and I've recently started my professional journey (about 2 months in now!). 
 
@@ -9,25 +9,25 @@ I built this app to show what I've learned about modern Android development. I w
 ## 📱 Screenshots
 
 ### Explore — Dark Theme
-![Explore Dark Theme](screenshots/explore-dark.png)
+![image alt](https://github.com/Aman298871/RepoScout/blob/47cea9be64c5fdd0ac3e040b75684b98164846f8/explore_dark.png.jpg)
 
 ### Explore — Light Theme
-![Explore Light Theme](screenshots/explore-light.png)
+![image alt](https://github.com/Aman298871/RepoScout/blob/47cea9be64c5fdd0ac3e040b75684b98164846f8/explore_light.png.jpg)
 
 ### Sorting Options
-![Sorting Options](screenshots/sorting.png)
+![image alt](https://github.com/Aman298871/RepoScout/blob/47cea9be64c5fdd0ac3e040b75684b98164846f8/sorting.jpg)
 
 ### Search
-![Search](screenshots/search.png)
+![image alt](https://github.com/Aman298871/RepoScout/blob/47cea9be64c5fdd0ac3e040b75684b98164846f8/search.jpg)
 
 ### Repository Details
-![Repository Details](screenshots/details.png)
+![image alt](https://github.com/Aman298871/RepoScout/blob/47cea9be64c5fdd0ac3e040b75684b98164846f8/Repository_detail.png.jpg)
 
 ### Bookmarked Repositories
-![Bookmarked Repositories](screenshots/bookmarked.png)
+![image alt](https://github.com/Aman298871/RepoScout/blob/47cea9be64c5fdd0ac3e040b75684b98164846f8/Bookmarked_Repository.jpg)
 
 ### Saved Repositories
-![Saved Repositories](screenshots/saved.png)
+![image alt](https://github.com/Aman298871/RepoScout/blob/47cea9be64c5fdd0ac3e040b75684b98164846f8/Saved.jpg)
 
 ## 🏛️ How I built this (The Nerd Stuff)
 
