@@ -1,0 +1,6 @@
+{
+  "name": "RepoScout",
+  "description": "GitHub Repository Explorer - Discover, search, inspect, and bookmark GitHub repositories with offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
